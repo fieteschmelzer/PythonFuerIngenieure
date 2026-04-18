@@ -45,7 +45,7 @@ PythonFuerIngenieure/
 
 ### Arbeitsmaterial
 - Der Ordner `Arbeitsmaterial/` enthält nur das vom Kurs bereitgestellte Lernmaterial.
-- Eigene Notizen oder Experimente gehören **nicht** hierhin — dafür lieber einen separaten Branch nutzen.
+- Eigene Notizen oder Experimente gehören **nicht** hierhin — dafür lieber einen separaten Ordner nutzen.
 
 ### Was nicht eingecheckt wird
 Folgendes bleibt lokal und kommt nie ins Repository (bereits in `.gitignore` konfiguriert):
